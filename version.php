@@ -1,4 +1,4 @@
 <?php
-$plugin->release = '1.0';
-$plugin->version = 2014011713;
-$plugin->requires = 2010112400;
+$plugin->release = '1.1';
+$plugin->version = 2014021018;
+$plugin->maturity = MATURITY_ALPHA;
